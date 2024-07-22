@@ -10,9 +10,9 @@
 <channel>
 	<title>Nova Offshore</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../home-english__trashed/index.html</link>
+	<link>./../../index.html</link>
 	<description>Empresa brasileira de Navegação especializada na logística e abastecimento de combustíveis marítimos para a indústria de Óleo &#38; Gás.</description>
-	<lastBuildDate>Mon, 22 Jul 2024 11:38:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jul 2024 22:36:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>./../../wp-content/uploads/2024/07/logo_novaoffshore.png</url>
 	<title>Nova Offshore</title>
-	<link>./../home-english__trashed/index.html</link>
+	<link>./../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
